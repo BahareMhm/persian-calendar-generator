@@ -18,8 +18,8 @@
 
 ## لینک API
 
-API document: https://pnldev.com/fa/api-doc/calender#item-1
-API endpoint: https://pnldev.com/api/calender
+- API document: https://pnldev.com/fa/api-doc/calender#item-1
+- API endpoint: https://pnldev.com/api/calender
 
 ## نصب وابستگی‌ها
 
