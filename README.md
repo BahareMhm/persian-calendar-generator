@@ -16,6 +16,11 @@
 
 برنامه ابتدا اطلاعات تقویم را از API دریافت می‌کند، سپس داده‌های JSON را پردازش کرده و در نهایت یک فایل Excel با ساختار و قالب‌بندی مشخص ایجاد می‌کند.
 
+## لینک API
+
+API document: https://pnldev.com/fa/api-doc/calender#item-1
+API endpoint: https://pnldev.com/api/calender
+
 ## نصب وابستگی‌ها
 
 ```bash
